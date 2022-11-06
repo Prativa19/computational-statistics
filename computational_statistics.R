@@ -1,7 +1,5 @@
-#Name              : Prativa Nepal
-#Mktr. Num         : 56915
 #Course            : Selected Topics in Computational Statistics
-#Seminar Group     : MA21w1-M
+
 
 
 # To import the active_dataset
